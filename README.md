@@ -4,7 +4,6 @@
 
 - Name: Huynh Thai Hoa (Huỳnh Thái Hòa)
 - Affiliation: Soongsil University
-- Major: Information Communication
 - Email: huynhthaihoa1995@gmail.com
 - Github: [huynhthaihoa](www.github.com/huynhthaihoa)
 - Leetcode: [huynhthaihoa](www.leetcode.com/huynhthaihoa)

@@ -35,21 +35,21 @@ I am an AI research engineer who specialized in (but is not restricted to) solvi
   - Supervisor: M.Sc. Thi-Vuong Pham
 
 ## Work experience
-- AI Researcher | DeltaX, Republic of Korea | 06/2022 ~ now
-- Research Engineer | Smart Deep, Republic of Korea | 05/2021 ~ 05/2022
+- AI Researcher - DeltaX (Republic of Korea) | 06/2022 ~ now
+- Research Engineer - Smart Deep (Republic of Korea) | 05/2021 ~ 05/2022
   - Participated in Deep Neural Network training pipeline: data labeling, cleaning, and training.
   - Developed tools for preprocessing datasets and evaluating inference model consistency.
   - Developed new features and improved client programs’ performance and dynamic-link
 libraries (DLL).
   - Developed a video processing system for interesting object detection.
   - Researched and proposed solutions for company projects.
-- Research Intern | Ubay Solution, Republic of Korea | 12/2020 ~ 04/2021
+- Research Intern - Ubay Solution (Republic of Korea) | 12/2020 ~ 04/2021
   - Researched to find solutions for Optical Character Recognition (OCR) problem on detecting
 and recognizing license plate numbers and container codes.
   - Evaluated the performance and consistency of several deep learning frameworks on our
 custom dataset.
   - Deployed inference model on NVIDIA Jetson Nano board
-- Research Assistant | ANDA Lab - Soongsil University, Republic of Korea | 08/2018 ~ 08/2020
+- Research Assistant  - ANDA Lab, Soongsil University (Republic of Korea) | 08/2018 ~ 08/2020
   - Researched to find and solve problems in the vehicle localization process based on detecting vehicle taillights using camera images.
   - Read and wrote scientific papers related to the project.
 - Trainee | Global Cybersoft JSC, Vietnam | 03/2017 ~ 08/2017

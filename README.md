@@ -3,7 +3,7 @@
 ## About 
 
 - Name: Huynh Thai Hoa (Huỳnh Thái Hòa)
-- Affiliation: Soongsil University
+- Affiliation: Soongsil University / DeltaX
 - Email: huynhthaihoa1995@gmail.com
 - Github: [huynhthaihoa](www.github.com/huynhthaihoa)
 - Leetcode: [huynhthaihoa](www.leetcode.com/huynhthaihoa)
@@ -35,6 +35,7 @@ I am an AI research engineer who specialized in (but is not restricted to) solvi
   - Supervisor: M.Sc. Thi-Vuong Pham
 
 ## Work experience
+- AI Researcher | DeltaX, Republic of Korea | 06/2022 ~ now
 - Research Engineer | Smart Deep, Republic of Korea | 05/2021 ~ 05/2022
   - Participated in Deep Neural Network training pipeline: data labeling, cleaning, and training.
   - Developed tools for preprocessing datasets and evaluating inference model consistency.
@@ -61,4 +62,4 @@ custom dataset.
 - [Thai-Hoa Huynh, Myungsik Yoo, Nighttime LED Taillight Detection Method with Optical Camera Communication System, 한국통신학회논문지 (2020)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10440000)
 - [Thai-Hoa Huynh, Tuan-Anh Pham, Myungsik Yoo, Detection Algorithm for Overlapping LEDs in Vehicular Visible Light Communication System, IEEE Access (2019)](https://ieeexplore.ieee.org/document/8792184)
 
-# Thank you!
+# Thank you for visiting!

@@ -25,11 +25,11 @@ I am an AI research engineer who specialized in (but is not restricted to) solvi
 - Others: Microsoft Office, LaTEX, JSON, XML, Batch.
 
 ## Education
-- Master of Engineering in Information Communication | Soongsil University, Republic of Korea | 08/2018 ~ 08/2020
+- Master of Engineering in Information Communication - Soongsil University (Republic of Korea) | 08/2018 ~ 08/2020
   - GPA: 4.01/4.05
   - Thesis: LED Taillight Matching in Nighttime Vehicle Positioning
   - Supervisor: Professor Myungsik Yoo
-- Bachelor of Engineering in Software Engineering | University of Information Technology - Vietnam National University in Ho Chi Minh City, Vietnam | 08/2013 ~ 06/2018
+- Bachelor of Engineering in Software Engineering - University of Information Technology, Vietnam National University in Ho Chi Minh City (Vietnam) | 08/2013 ~ 06/2018
   - GPA: 8.6/10
   - Thesis: Coronary Arteries Segmentation from Coronary Angiogram
   - Supervisor: M.Sc. Thi-Vuong Pham
@@ -52,7 +52,7 @@ custom dataset.
 - Research Assistant  - ANDA Lab, Soongsil University (Republic of Korea) | 08/2018 ~ 08/2020
   - Researched to find and solve problems in the vehicle localization process based on detecting vehicle taillights using camera images.
   - Read and wrote scientific papers related to the project.
-- Trainee | Global Cybersoft JSC, Vietnam | 03/2017 ~ 08/2017
+- Trainee - Global Cybersoft JSC (Vietnam) | 03/2017 ~ 08/2017
   - Learned the software development process in practice.
   - Supported team to design and develop plugins as required by customers.
   - Attended the peer-review process that uses appropriate tools to evaluate code quality.

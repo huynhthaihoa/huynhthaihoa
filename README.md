@@ -10,7 +10,7 @@
 - Kaggle: [huynhthaihoa1995](www.kaggle.com/huynhthaihoa1995)
 - Linkedin: [linkedin.com/in/huynh-thai-hoa-qn/](www.linkedin.com/in/huynh-thai-hoa-qn/)
 
-I am an AI research engineer who specialized in (but is not restricted to) solving computer vision problems, especially in the areas of transportation, education, and healthcare. I am always eager to grow my knowledge and experience by learning and collaborating with people around me.
+I am an AI researcher who specialized in (but is not restricted to) solving computer vision problems, especially in the areas of transportation, education, and healthcare. I am always eager to grow my knowledge and experience by learning and collaborating with people around me.
 
 ## Skills & expertise
 

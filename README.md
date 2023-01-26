@@ -8,7 +8,7 @@
 - **Kaggle:** [huynhthaihoa1995](www.kaggle.com/huynhthaihoa1995)
 - **Linkedin:** [huynh-thai-hoa-qn](www.linkedin.com/in/huynh-thai-hoa-qn/)
 
-I am an AI researcher who specialized in (but is not restricted to) solving computer vision problems, especially in the areas of transportation, education, and healthcare. I am always eager to grow my knowledge and experience by learning and collaborating with people around me.
+I am a software engineer who loves to do research in Computer Vision and Artificial Intelligence. I am working toward the goal of building a better world for my dearest ones, especially in the fields of transportation, education, and healthcare. I am always eager to grow my knowledge and experience by learning and collaborating with people around me.
 
 ## Skills & expertise
 

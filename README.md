@@ -3,7 +3,6 @@
 - **Name:** Huynh Thai Hoa (Huỳnh Thái Hòa)
 - **Affiliation:** Soongsil University / DeltaX
 - **Email:** huynhthaihoa1995@gmail.com
-- **Github:** [huynhthaihoa](www.github.com/huynhthaihoa)
 - **Leetcode:** [huynhthaihoa](www.leetcode.com/huynhthaihoa)
 - **Kaggle:** [huynhthaihoa1995](www.kaggle.com/huynhthaihoa1995)
 - **Linkedin:** [huynh-thai-hoa-qn](www.linkedin.com/in/huynh-thai-hoa-qn/)

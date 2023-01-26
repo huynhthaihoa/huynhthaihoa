@@ -1,5 +1,3 @@
-# RESUME
-
 ## About 
 
 - **Name:** Huynh Thai Hoa (Huỳnh Thái Hòa)

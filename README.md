@@ -7,7 +7,7 @@
 - **Kaggle:** [huynhthaihoa1995](https://www.kaggle.com/huynhthaihoa1995)
 - **Linkedin:** [huynhthaihoa](https://www.linkedin.com/in/huynhthaihoa/)
 
-I am a software engineer who loves to do research in Computer Vision and Artificial Intelligence. I am working toward the goal of building a better world for my dearest ones, especially in the fields of transportation, education, and healthcare.
+I am a software engineer who enjoys exploring the capability of Artificial Intelligence in solving Computer Vision problems. My aspiration is to develop a better world for my dearest ones, especially in the fields of transportation, education, and healthcare.
 
 ## Skills & expertise
 

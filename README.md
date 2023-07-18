@@ -22,11 +22,11 @@ I am a software research engineer who takes pleasure in delving into the capabil
 
 ## Education
 - **Master of Engineering in Information Communication - Soongsil University (Republic of Korea) | 08/2018 - 08/2020**
-  - CPA: 4.01/4.05
+  - CGPA: 4.01/4.05
   - Thesis: LED Taillight Matching in Nighttime Vehicle Positioning
   - Supervisor: Professor Myungsik Yoo
 - **Bachelor of Engineering in Software Engineering - University of Information Technology, Vietnam National University in Ho Chi Minh City (Vietnam) | 08/2013 - 06/2018**
-  - CPA: 8.6/10
+  - CGPA: 8.6/10
   - Thesis: Coronary Arteries Segmentation from Coronary Angiogram
   - Supervisor: M.Sc. Thi-Vuong Pham
 

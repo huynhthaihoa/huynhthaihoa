@@ -6,7 +6,7 @@
 - **Kaggle:** [huynhthaihoa1995](https://www.kaggle.com/huynhthaihoa1995)
 - **Linkedin:** [huynhthaihoa](https://www.linkedin.com/in/huynhthaihoa/)
 
-As a software research engineer, I take pleasure in delving into the capability of Computer Vision and Artificial Intelligence to address everyday challenges. My goal is to contribute towards creating a better world, particularly in the areas of transportation, education, and healthcare, for the well-being of my loved ones. Throughout this lifelong and challenging journey, I eagerly anticipate collaborating with and learning from the talented individuals who surround me.
+I am a software research engineer who takes pleasure in delving into the capability of Computer Vision and Artificial Intelligence to address everyday challenges. My goal is to contribute towards creating a better world, particularly in the areas of transportation, education, and healthcare, for the well-being of my loved ones. Throughout this lifelong and challenging journey, I eagerly anticipate collaborating with and learning from the talented individuals who surround me.
 
 ## Skills & expertise
 

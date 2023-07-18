@@ -3,11 +3,10 @@
 - **Name:** Huynh Thai Hoa (Huỳnh Thái Hòa)
 - **Affiliation:** Soongsil University / DeltaX
 - **Email:** huynhthaihoa1995@gmail.com
-- **Leetcode:** [huynhthaihoa](https://www.leetcode.com/huynhthaihoa)
 - **Kaggle:** [huynhthaihoa1995](https://www.kaggle.com/huynhthaihoa1995)
 - **Linkedin:** [huynhthaihoa](https://www.linkedin.com/in/huynhthaihoa/)
 
-I am a software engineer who enjoys exploring the capability of Artificial Intelligence in solving Computer Vision problems. My aspiration is to develop a better world for my dearest ones, especially in the fields of transportation, education, and healthcare.
+As a software research engineer, I take pleasure in delving into the capability of Computer Vision and Artificial Intelligence to address everyday challenges. My goal is to contribute towards creating a better world, particularly in the areas of transportation, education, and healthcare, for the well-being of my loved ones. Throughout this lifelong and challenging journey, I eagerly anticipate collaborating with and learning from the talented individuals who surround me.
 
 ## Skills & expertise
 

@@ -10,10 +10,10 @@ I am a software research engineer who takes pleasure in delving into the capabil
 
 ## Skills & expertise
 
-- **Programming languages:** C, C++, Python, C#, MATLAB, Java, Javascript, R.
+- **Programming languages:** C, C++, Python, C#, MATLAB, Java, Javascript.
 - **Fundamentals:** Data Structures & Algorithms, Computer Vision, Deep Learning, Machine Learning.
-- **Frameworks/Libraries:** OpenCV, Tensorflow, Pytorch, Darknet, FFMPEG, DeepStream, WPF, Qt.
-- **Version control:** Git, SVN.
+- **Frameworks/Libraries:** OpenCV, Tensorflow, Pytorch, Darknet, FFMPEG, DeepStream, ROS, WPF, Qt.
+- **Software version control:** Git, SVN.
 - **Databases:** Microsoft SQL Server, MySQL, SQLite, Postgres.
 - **Operating system:** Windows, Ubuntu.
 - **Hardware platform:** Jetson Nano, Jetson Xavier NX.

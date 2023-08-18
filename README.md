@@ -31,7 +31,7 @@ I am a software research engineer who takes pleasure in delving into the capabil
   - Supervisor: M.Sc. Thi-Vuong Pham
 
 ## Work experience
-- **AI Researcher - DeltaX (Republic of Korea) | 06/2022 - now**
+- **AI Researcher - DeltaX (Republic of Korea) | 06/2022 - present**
 - **Research Engineer - Smart Deep (Republic of Korea) | 05/2021 - 05/2022**
   - Participated in Deep Neural Network training pipeline: data labeling, cleaning, and training.
   - Developed tools for preprocessing datasets and evaluating inference model consistency.

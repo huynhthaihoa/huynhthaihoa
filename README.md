@@ -1,4 +1,4 @@
-## :wave: About 
+## :wave: Introduction 
 
 - **Name:** Huynh Thai Hoa (Huỳnh Thái Hòa)
 - **Affiliation:** Soongsil University / DeltaX

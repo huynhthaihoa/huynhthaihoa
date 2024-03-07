@@ -15,7 +15,6 @@ I am a software research engineer who takes pleasure in delving into the capabil
 - **Frameworks/Libraries:** OpenCV, Tensorflow, Pytorch, Darknet, FFMPEG, DeepStream, ROS, WPF, Qt.
 - **Software version control:** Git, SVN.
 - **Databases:** Microsoft SQL Server, MySQL, SQLite, Postgres.
-- **Operating system:** Windows, Ubuntu.
 - **Hardware platform:** Jetson Nano, Jetson Xavier NX.
 - **Languages:** Vietnamese (Native), English (Professional), Korean (Basic).
 - **Others:** Microsoft Office, LaTEX, JSON, XML, Batch.
@@ -28,15 +27,12 @@ I am a software research engineer who takes pleasure in delving into the capabil
 - **Research Engineer - Smart Deep (Republic of Korea) | 05/2021 - 05/2022**
   - Participated in Deep Neural Network training pipeline: data labeling, cleaning, and training.
   - Developed tools for preprocessing datasets and evaluating inference model consistency.
-  - Developed new features and improved client programs’ performance and dynamic-link
-libraries (DLL).
+  - Developed new features and improved client programs’ performance and dynamic-link libraries (DLL).
   - Developed a video processing system for interesting object detection.
   - Researched and proposed solutions for company projects.
 - **Research Intern - Ubay Solution (Republic of Korea) | 12/2020 - 04/2021**
-  - Researched to find solutions for Optical Character Recognition (OCR) problem on detecting
-and recognizing license plate numbers and container codes.
-  - Evaluated the performance and consistency of several deep learning frameworks on our
-custom dataset.
+  - Researched to find solutions for Optical Character Recognition (OCR) problems in detecting and recognizing license plate numbers and container codes.
+  - Evaluated the performance and consistency of several deep learning frameworks on our custom dataset.
   - Deployed inference model on NVIDIA Jetson Nano board
 - **Research Assistant  - ANDA Lab (Republic of Korea) | 08/2018 - 08/2020**
   - Researched to find and solve problems in the vehicle localization process based on detecting vehicle taillights using camera images.
@@ -48,11 +44,11 @@ custom dataset.
 
 ## :mortar_board: Education
 - **Master of Engineering in Information Communication - Soongsil University (Republic of Korea) | 08/2018 - 08/2020**
-  - CGPA: 4.01/4.05
+  - GPA: 4.01/4.05
   - Thesis: LED Taillight Matching in Nighttime Vehicle Positioning
   - Supervisor: Professor Myungsik Yoo
 - **Bachelor of Engineering in Software Engineering - University of Information Technology, Vietnam National University in Ho Chi Minh City (Vietnam) | 08/2013 - 06/2018**
-  - CGPA: 8.6/10
+  - GPA: 8.6/10
   - Thesis: Coronary Arteries Segmentation from Coronary Angiogram
   - Supervisor: M.Sc. Thi-Vuong Pham
  

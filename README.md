@@ -20,7 +20,7 @@ I am a software research engineer who takes pleasure in delving into the capabil
 - **Languages:** Vietnamese (Native), English (Professional), Korean (Basic).
 - **Others:** Microsoft Office, LaTEX, JSON, XML, Batch.
 
-## :briefcase: Work experience
+## :briefcase: Professional experience
 - **AI Researcher - DeltaX (Republic of Korea) | 06/2022 - present**
   - Developing and implementing solutions for company projects about 2D/3D perception and Advanced Driver Assistant Systems, both in-cabin and outside.
   - Collaborating with the team to propose and design solutions around an Advanced Driving Assistance System using cameras (pinhole/fisheye, RGB/IR) with LIDAR supervision.

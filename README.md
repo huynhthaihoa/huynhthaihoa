@@ -21,8 +21,8 @@ I am a software research engineer who takes pleasure in delving into the capabil
 
 ## :briefcase: Professional experience
 - **AI Researcher - DeltaX (Republic of Korea) | 06/2022 - present**
-  - Developing and implementing solutions for company projects about 2D/3D perception and Advanced Driver Assistant Systems, both in-cabin and outside.
-  - Collaborating with the team to propose and design solutions around an Advanced Driving Assistance System using cameras (pinhole/fisheye, RGB/IR) with LIDAR supervision.
+  - Coordinating, developing, and maintaining Smart In-cabin Monitoring solutions for the Advanced Driver-Assistance System.
+  - Collaborating with the team to propose and design solutions for 2D/3D perception problems using cameras (pinhole/fisheye, RGB/IR) with LIDAR/RGB-D supervision.
   - Designing, implementing, and maintaining utility software for camera calibration, data collection, annotation, and analysis.
 - **Research Engineer - Smart Deep (Republic of Korea) | 05/2021 - 05/2022**
   - Participated in Deep Neural Network training pipeline: data labeling, cleaning, and training.

@@ -6,6 +6,8 @@
 - **Leetcode:** [huynhthaihoa](https://www.leetcode.com/huynhthaihoa)
 - **Linkedin:** [huynhthaihoa](https://www.linkedin.com/in/huynhthaihoa/)
 
+*My full CV can be found at [Curriculum Vitae (CV)](https://github.com/huynhthaihoa/CV/blob/master/CV_Huynh%20Thai%20Hoa.pdf)*
+
 I am a software research engineer who takes pleasure in delving into the capability of Computer Vision and Artificial Intelligence to address everyday challenges. My goal is to contribute towards creating a better world, particularly in transportation, education, and healthcare, for the well-being of my loved ones. Throughout this lifelong and challenging journey, I eagerly anticipate collaborating with and learning from the amazing people around me.
 
 ## :wrench: Skills & expertise

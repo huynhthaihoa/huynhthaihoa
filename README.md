@@ -6,7 +6,7 @@
 - **Leetcode:** [huynhthaihoa](https://www.leetcode.com/huynhthaihoa)
 - **Linkedin:** [huynhthaihoa](https://www.linkedin.com/in/huynhthaihoa/)
 
-I am a software research engineer who takes pleasure in delving into the capability of Computer Vision and Artificial Intelligence to address everyday challenges. My goal is to contribute towards creating a better world, particularly in the areas of transportation, education, and healthcare, for the well-being of my loved ones. Throughout this lifelong and challenging journey, I eagerly anticipate collaborating with and learning from the talented individuals who surround me.
+I am a software research engineer who takes pleasure in delving into the capability of Computer Vision and Artificial Intelligence to address everyday challenges. My goal is to contribute towards creating a better world, particularly in transportation, education, and healthcare, for the well-being of my loved ones. Throughout this lifelong and challenging journey, I eagerly anticipate collaborating with and learning from the amazing people around me.
 
 ## :wrench: Skills & expertise
 
@@ -21,7 +21,7 @@ I am a software research engineer who takes pleasure in delving into the capabil
 
 ## :briefcase: Professional experience
 - **AI Researcher - DeltaX (Republic of Korea) | 06/2022 - present**
-  - Coordinating, developing, and maintaining Smart In-cabin Monitoring solutions for the Advanced Driver-Assistance System.
+  - Coordinating the team to develop and maintain smart in-cabin monitoring solutions for the advanced driver-assistance system.
   - Collaborating with the team to propose and design solutions for 2D/3D perception problems using cameras (pinhole/fisheye, RGB/IR) with LIDAR/RGB-D supervision.
   - Designing, implementing, and maintaining utility software for camera calibration, data collection, annotation, and analysis.
 - **Research Engineer - Smart Deep (Republic of Korea) | 05/2021 - 05/2022**

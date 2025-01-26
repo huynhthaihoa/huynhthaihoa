@@ -29,9 +29,9 @@ I am a dedicated software research engineer who takes pleasure in delving into t
   - Collaborating with the team to propose and design solutions for 2D/3D perception problems using cameras (pinhole/fisheye, RGB/IR) with LIDAR/RGB-D supervision.
   - Designing, implementing, and maintaining utility software for camera calibration, data collection, annotation, and analysis.
 #### Research Engineer | Smart Deep, Republic of Korea (05/2021 - 05/2022)
-  - Participated in Deep Neural Network training pipeline: data labeling, cleaning, and training.
+  - Participated in the detection model end-to-end development pipeline: data labeling, cleaning, training, and evaluation.
   - Developed tools for preprocessing datasets and evaluating inference model consistency.
-  - Developed new features and improved client programs’ performance and dynamic-link libraries (DLL).
+  - Developed the GUI program and the dynamic link libraries to demonstrate object-detection-based features using CCTV camera feeds.
   - Developed a video processing system for interesting object detection.
   - Researched and proposed solutions for company projects.
 #### Research Intern | Ubay Solution, Republic of Korea (12/2020 - 04/2021)
@@ -49,7 +49,7 @@ I am a dedicated software research engineer who takes pleasure in delving into t
 ---
 
 ### :mortar_board: Education
-#### Master of Engineering in Information Communication | Soongsil University, Republic of Korea (08/2018 - 08/2020)
+#### Master of Engineering in Information Communication | Soongsil University, Republic of Korea (09/2018 - 08/2020)
   - **GPA**: 4.01/4.05
   - **Thesis**: LED Taillight Matching in Nighttime Vehicle Positioning
   - **Supervisor**: Professor Myungsik Yoo

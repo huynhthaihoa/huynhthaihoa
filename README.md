@@ -8,7 +8,7 @@
 - **Leetcode:** [huynhthaihoa](https://www.leetcode.com/huynhthaihoa)
 - **Linkedin:** [huynhthaihoa](https://www.linkedin.com/in/huynhthaihoa/)
 
-I am a dedicated software research engineer who takes pleasure in delving into the capability of Computer Vision and Artificial Intelligence to address everyday challenges. My goal is to contribute towards creating a better world, particularly in transportation, education, and healthcare, for the well-being of my loved ones. Throughout this lifelong and challenging journey, I eagerly anticipate collaborating with and learning from the amazing people around me.
+I am a dedicated software research engineer who takes pleasure in delving into the capabilities of Computer Vision and Artificial Intelligence to address everyday challenges. My goal is to contribute to a better world, particularly in **transportation**, **education**, and **healthcare**, for the well-being of my loved ones. Throughout this lifelong and challenging journey, I eagerly anticipate collaborating with and learning from the amazing people around me.
 
 ---
 
@@ -45,7 +45,7 @@ I am a dedicated software research engineer who takes pleasure in delving into t
   - Read and wrote scientific papers related to the project.
 #### Trainee | Global Cybersoft JSC, Vietnam (03/2017 - 08/2017)
   - Learned the software development process in practice.
-  - Supported team to design and develop plugins as required by customers.
+  - Supported the team to design and develop plugins as required by customers.
   - Attended the peer-review process that uses appropriate tools to evaluate code quality.
 
 ---
@@ -58,11 +58,12 @@ I am a dedicated software research engineer who takes pleasure in delving into t
 #### Bachelor of Engineering in Software Engineering | University of Information Technology - Vietnam National University in Ho Chi Minh City, Vietnam (08/2013 - 06/2018)
   - **GPA**: 8.6/10
   - **Thesis**: Coronary Arteries Segmentation from Coronary Angiogram
-  - **Supervisor**: M.Sc. Thi-Vuong Pham
+  - **Supervisor**: Professor Thi-Vuong Pham
 
  ---
  
  ### :newspaper: Publications
+- [Jaime Spencer, ..., Huynh Thai Hoa,..., The second monocular depth estimation challenge, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (2023)](https://openaccess.thecvf.com/content/CVPR2023W/MDEC/papers/Spencer_The_Second_Monocular_Depth_Estimation_Challenge_CVPRW_2023_paper.pdf)
 - [Thai-Hoa Huynh, Myungsik Yoo, Taillight Matching and Pairing Algorithm for Stereo-Vision-based Nighttime Vehicle Positioning, Applied Sciences (2020)](https://www.mdpi.com/2076-3417/10/19/6800)
 - [Thai-Hoa Huynh, Myungsik Yoo, Nighttime LED Taillight Detection Method with Optical Camera Communication System, 한국통신학회논문지 (2020)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10440000)
 - [Thai-Hoa Huynh, Tuan-Anh Pham, Myungsik Yoo, Detection Algorithm for Overlapping LEDs in Vehicular Visible Light Communication System, IEEE Access (2019)](https://ieeexplore.ieee.org/document/8792184)

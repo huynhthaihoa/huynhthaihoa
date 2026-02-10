@@ -1,4 +1,3 @@
-![huynhthaihoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=huynhthaihoa&show_icons=true)
 
 ### :wave: Introduction 
 

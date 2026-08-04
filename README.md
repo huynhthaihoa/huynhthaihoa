@@ -3,6 +3,7 @@
 
 - **Name:** Hoa Huynh (Huỳnh Thái Hòa)
 - **Email:** huynhthaihoa1995@gmail.com
+- **Portfolio:** [huynhthaihoa.github.io](huynhthaihoa.github.io)
 - **Leetcode:** [huynhthaihoa](https://www.leetcode.com/huynhthaihoa)
 - **Linkedin:** [huynhthaihoa](https://www.linkedin.com/in/huynhthaihoa/)
 <!-- - **Affiliation:** Soongsil University / DeltaX -->

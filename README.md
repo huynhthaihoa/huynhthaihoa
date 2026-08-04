@@ -25,7 +25,7 @@ I am a dedicated software research engineer who takes pleasure in delving into t
 ---
 
 ## :briefcase: Professional experience
-### AI Researcher, Development Team Lead | DeltaX, Republic of Korea (06/2022 - present)
+### AI Researcher, Development Team Lead | DeltaX, Republic of Korea (06/2022 - 07/2026)
   - Coordinating the team to develop and maintain smart in-cabin monitoring solutions for the advanced driver-assistance system.
   - Collaborating with the team to propose and design solutions for 2D/3D perception problems using cameras (pinhole/fisheye, RGB/IR) with LIDAR/RGB-D supervision.
   - Designing, implementing, and maintaining utility software for camera calibration, data collection, annotation, and analysis.

@@ -26,9 +26,9 @@ I am a dedicated software research engineer who takes pleasure in delving into t
 
 ## :briefcase: Professional experience
 ### AI Researcher, Development Team Lead | DeltaX, Republic of Korea (06/2022 - 07/2026)
-  - Coordinating the team to develop and maintain smart in-cabin monitoring solutions for the advanced driver-assistance system.
-  - Collaborating with the team to propose and design solutions for 2D/3D perception problems using cameras (pinhole/fisheye, RGB/IR) with LIDAR/RGB-D supervision.
-  - Designing, implementing, and maintaining utility software for camera calibration, data collection, annotation, and analysis.
+  - Coordinated the team to develop and maintain smart in-cabin monitoring solutions for the advanced driver-assistance system.
+  - Collaborated with the cross-functional team to propose and design solutions for 2D/3D perception problems using cameras (pinhole/fisheye, RGB/IR) with LIDAR/RGB-D supervision.
+  - Designed, implemented, and maintained utility software for camera calibration, data collection, annotation, and analysis.
 ### Research Engineer | Smart Deep, Republic of Korea (05/2021 - 05/2022)
   - Participated in the detection model end-to-end development pipeline: data labeling, cleaning, training, and evaluation.
   - Developed tools for preprocessing datasets and evaluating inference model consistency.
@@ -44,7 +44,7 @@ I am a dedicated software research engineer who takes pleasure in delving into t
   - Read and wrote scientific papers related to the project.
 ### Trainee | Global Cybersoft JSC, Vietnam (03/2017 - 08/2017)
   - Learned the software development process in practice.
-  - Supported the team to design and develop plugins as required by customers.
+  - Supported the team in designing and developing plugins as required by customers.
   - Attended the peer-review process that uses appropriate tools to evaluate code quality.
 
 ---

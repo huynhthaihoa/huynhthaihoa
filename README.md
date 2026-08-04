@@ -1,11 +1,11 @@
 
 ## :wave: Introduction 
 
-- **Name:** Huynh Thai Hoa (Huỳnh Thái Hòa)
-- **Affiliation:** Soongsil University / DeltaX
+- **Name:** Hoa Huynh (Huỳnh Thái Hòa)
 - **Email:** huynhthaihoa1995@gmail.com
 - **Leetcode:** [huynhthaihoa](https://www.leetcode.com/huynhthaihoa)
 - **Linkedin:** [huynhthaihoa](https://www.linkedin.com/in/huynhthaihoa/)
+<!-- - **Affiliation:** Soongsil University / DeltaX -->
 
 I am a dedicated software research engineer who takes pleasure in delving into the capabilities of Computer Vision and Artificial Intelligence to address everyday challenges. My goal is to contribute to a better world, particularly in **robotics**, **transportation**, and **healthcare**, for the well-being of my loved ones. Throughout this lifelong and challenging journey, I eagerly anticipate collaborating with cross-functional teams and exploring emerging technologies.
 

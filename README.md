@@ -8,7 +8,7 @@
 - **Linkedin:** [huynhthaihoa](https://www.linkedin.com/in/huynhthaihoa/)
 <!-- - **Affiliation:** Soongsil University / DeltaX -->
 
-I am a dedicated software research engineer who takes pleasure in delving into the capabilities of Computer Vision and Artificial Intelligence to address everyday challenges. My goal is to contribute to a better world, particularly in **robotics**, **transportation**, and **healthcare**, for the well-being of my loved ones. Throughout this lifelong and challenging journey, I eagerly anticipate collaborating with cross-functional teams and exploring emerging technologies.
+I am a software research engineer who enjoys exploring Computer Vision and Artificial Intelligence to solve everyday challenges. My goal is to contribute to a better world, particularly in **robotics**, **transportation**, and **healthcare**, for the well-being of my loved ones. Throughout this lifelong and challenging journey, I eagerly anticipate collaborating with cross-functional teams and exploring emerging technologies.
 
 ---
 

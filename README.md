@@ -8,7 +8,8 @@
 - **Linkedin:** [huynhthaihoa](https://www.linkedin.com/in/huynhthaihoa/)
 <!-- - **Affiliation:** Soongsil University / DeltaX -->
 
-I am a software research engineer who enjoys exploring Computer Vision and Artificial Intelligence to solve everyday challenges. My goal is to contribute to a better world, particularly in **robotics** and **automotive**, for the well-being of my loved ones. Throughout this lifelong and challenging journey, I eagerly anticipate collaborating with cross-functional teams and exploring emerging technologies.
+<!-- - I am a software research engineer who enjoys exploring Computer Vision and Artificial Intelligence to solve everyday challenges. My goal is to contribute to a better world, particularly in **robotics** and **automotive**, for the well-being of my loved ones. Throughout this lifelong and challenging journey, I eagerly anticipate collaborating with cross-functional teams and exploring emerging technologies. -->
+I am a Computer Vision Engineer with over 7 years of experience developing and deploying real-time deep learning systems on edge devices for automotive safety and surveillance. I am passionate about designing 2D/3D perception deep learning models, optimizing inference pipelines, integrating multi-sensor data, and collaborating with cross-functional teams to deliver practical AI solutions that improve human well-being. Additionally, I continuously seek out cutting-edge technologies, enhance my skills, and grow alongside the amazing people around me.
 
 ---
 
@@ -39,7 +40,7 @@ I am a software research engineer who enjoys exploring Computer Vision and Artif
 ### Research Intern | Ubay Solution, Republic of Korea (12/2020 - 04/2021)
   - Researched to find solutions for Optical Character Recognition (OCR) problems in detecting and recognizing license plate numbers and container codes.
   - Evaluated the performance and consistency of several deep learning frameworks on our custom dataset.
-  - Deployed inference model on NVIDIA Jetson Nano board
+  - Deployed an inference model on an NVIDIA Jetson Nano/Xavier NX board
 ### Research Assistant | ANDA Lab - Soongsil University, Republic of Korea (08/2018 - 08/2020)
   - Researched to find and solve problems in the vehicle localization process based on detecting vehicle taillights using camera images.
   - Read and wrote scientific papers related to the project.
@@ -63,7 +64,7 @@ I am a software research engineer who enjoys exploring Computer Vision and Artif
  ---
  
  ## :newspaper: Publications
-- [Jaime Spencer, ..., Huynh Thai Hoa,..., The second monocular depth estimation challenge, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (2023)](https://openaccess.thecvf.com/content/CVPR2023W/MDEC/papers/Spencer_The_Second_Monocular_Depth_Estimation_Challenge_CVPRW_2023_paper.pdf)
+- [Jaime Spencer, ..., Huynh Thai Hoa,..., The Second Monocular Depth Estimation Challenge, Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (2023)](https://openaccess.thecvf.com/content/CVPR2023W/MDEC/papers/Spencer_The_Second_Monocular_Depth_Estimation_Challenge_CVPRW_2023_paper.pdf)
 - [Thai-Hoa Huynh, Myungsik Yoo, Taillight Matching and Pairing Algorithm for Stereo-Vision-based Nighttime Vehicle Positioning, Applied Sciences (2020)](https://www.mdpi.com/2076-3417/10/19/6800)
 - [Thai-Hoa Huynh, Myungsik Yoo, Nighttime LED Taillight Detection Method with Optical Camera Communication System, 한국통신학회논문지 (2020)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10440000)
 - [Thai-Hoa Huynh, Tuan-Anh Pham, Myungsik Yoo, Detection Algorithm for Overlapping LEDs in Vehicular Visible Light Communication System, IEEE Access (2019)](https://ieeexplore.ieee.org/document/8792184)

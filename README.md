@@ -9,7 +9,7 @@
 <!-- - **Affiliation:** Soongsil University / DeltaX -->
 
 <!-- - I am a software research engineer who enjoys exploring Computer Vision and Artificial Intelligence to solve everyday challenges. My goal is to contribute to a better world, particularly in **robotics** and **automotive**, for the well-being of my loved ones. Throughout this lifelong and challenging journey, I eagerly anticipate collaborating with cross-functional teams and exploring emerging technologies. -->
-I am a Computer Vision Engineer with over 7 years of experience developing and deploying real-time deep learning systems on edge devices for automotive safety and surveillance. I am passionate about designing 2D/3D perception deep learning models, optimizing inference pipelines, integrating multi-sensor data, and collaborating with cross-functional teams to deliver practical AI solutions that improve human well-being. Additionally, I continuously seek out cutting-edge technologies, enhance my skills, and grow alongside the amazing people around me.
+I am a Computer Vision Engineer with over 7 years of experience developing and deploying real-time deep learning systems on edge devices for automotive safety and surveillance. I am passionate about designing 2D/3D perception deep learning models, optimizing inference pipelines, integrating multi-sensor data, and collaborating with cross-functional teams to deliver practical solutions that improve human well-being. Additionally, I continuously seek out cutting-edge technologies, enhance my skills, and grow alongside the amazing people around me.
 
 ---
 

@@ -21,7 +21,7 @@ I am a Computer Vision Engineer with over 7 years of experience developing and d
 - **Software version control:** Git, SVN.
 - **Databases:** Microsoft SQL Server, MySQL, SQLite, Postgres.
 - **Hardware platform:** Jetson Nano, Jetson Xavier NX.
-- **Languages:** Vietnamese (Native), English (Professional), Korean (Basic).
+- **Languages:** Vietnamese (Native), English (Professional), Korean (Elementary).
 - **Others:** Microsoft Office, LaTeX, JSON, XML, Batch.
   
 ---
@@ -37,14 +37,14 @@ I am a Computer Vision Engineer with over 7 years of experience developing and d
   - Developed the GUI program and the dynamic link libraries to demonstrate object-detection-based features using CCTV camera feeds.
   - Developed a video processing system for interesting object detection.
   - Researched and proposed solutions for company projects.
-### Research Intern | Ubay Solution, Republic of Korea (12/2020 - 04/2021)
+### AI Research Intern | Ubay Solution, Republic of Korea (12/2020 - 04/2021)
   - Researched to find solutions for Optical Character Recognition (OCR) problems in detecting and recognizing license plate numbers and container codes.
   - Evaluated the performance and consistency of several deep learning frameworks on our custom dataset.
   - Deployed an inference model on an NVIDIA Jetson Nano/Xavier NX board
 ### Research Assistant | ANDA Lab - Soongsil University, Republic of Korea (08/2018 - 08/2020)
   - Researched to find and solve problems in the vehicle localization process based on detecting vehicle taillights using camera images.
   - Read and wrote scientific papers related to the project.
-### Trainee | Global Cybersoft JSC, Vietnam (03/2017 - 08/2017)
+### Software Engineer Trainee | Global Cybersoft JSC, Vietnam (03/2017 - 08/2017)
   - Learned the software development process in practice.
   - Supported the team in designing and developing plugins as required by customers.
   - Attended the peer-review process that uses appropriate tools to evaluate code quality.
@@ -53,13 +53,13 @@ I am a Computer Vision Engineer with over 7 years of experience developing and d
 
 ## :mortar_board: Education
 ### Master of Engineering in Information Communication | Soongsil University, Republic of Korea (09/2018 - 08/2020)
-  - **GPA**: 4.01/4.05
-  - **Thesis**: LED Taillight Matching in Nighttime Vehicle Positioning
+  - **GPA**: 4.01/4.5
+  - **Thesis**: LED Taillight Matching Algorithm for Nighttime Vehicle Positioning
   - **Supervisor**: Professor Myungsik Yoo
 ### Bachelor of Engineering in Software Engineering | University of Information Technology - Vietnam National University in Ho Chi Minh City, Vietnam (08/2013 - 06/2018)
   - **GPA**: 8.6/10
-  - **Thesis**: Coronary Arteries Segmentation from Coronary Angiogram
-  - **Supervisor**: Professor Thi-Vuong Pham
+  - **Thesis**: Blood Vessel Segmentation on DICOM Images
+  - **Supervisor**: Thi-Vuong Pham, M.Sc.
 
  ---
  

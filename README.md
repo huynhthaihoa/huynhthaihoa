@@ -41,7 +41,7 @@ I am a Computer Vision Engineer with over 5 years of experience developing and d
   - Researched to find solutions for Optical Character Recognition (OCR) problems in detecting and recognizing license plate numbers and container codes.
   - Evaluated the performance and consistency of several deep learning frameworks on our custom dataset.
   - Deployed an inference model on an NVIDIA Jetson Nano/Xavier NX board
-### Research Assistant | ANDA Lab - Soongsil University, Republic of Korea (08/2018 - 08/2020)
+### Research Assistant | ANDA Lab - Soongsil University, Republic of Korea (09/2018 - 08/2020)
   - Researched to find and solve problems in the vehicle localization process based on detecting vehicle taillights using camera images.
   - Read and wrote scientific papers related to the project.
 ### Software Engineer Trainee | Global Cybersoft JSC, Vietnam (03/2017 - 08/2017)
@@ -52,7 +52,7 @@ I am a Computer Vision Engineer with over 5 years of experience developing and d
 ---
 
 ## :mortar_board: Education
-### Master of Engineering in Information Communication Technology | Soongsil University, Republic of Korea (08/2018 - 08/2020)
+### Master of Engineering in Information and Communication Technology | Soongsil University, Republic of Korea (08/2018 - 08/2020)
   - **GPA**: 4.01/4.5
   - **Thesis**: LED Taillight Matching Algorithm for Nighttime Vehicle Positioning
   - **Supervisor**: Professor Myungsik Yoo
